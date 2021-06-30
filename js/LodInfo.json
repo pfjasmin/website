@@ -1,0 +1,780 @@
+[{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "url": "http://parfumjasminnuitsyrienne.ch/",
+  "author": "http://parfumjasminnuitsyrienne.ch/index.html#bio",
+  "producer": "Michel Moret",
+  "image": "http://parfumjasminnuitsyrienne.ch/img/plus/cover.jpg",
+  "inLanguage": "French",
+  "name": "Parfum de jasmin dans la nuit syrienne",
+  "publisher": "Les Editions de l'Aire",
+  "keywords": "sarah,chardonnens,parfum,nuit,syrienne,jasmin,livre,suisse,syrie,damas,moto,récit,irak,printemps,arabe,moyen-orient,genève,salon,livre",
+  "about": "Parfum de jasmin dans la nuit syrienne relate les récits de Sarah Chardonnens au Moyen-Orient.",
+  "copyrightHolder": "Editions de l'Aire",
+  "copyrightYear": "2015",
+  "genre": "récit de voyage, carnet de route, biographie"
+}, {
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "name": "Parfum de jasmin dans la nuit syrienne | Sarah Chardonnens",
+  "url": "http://parfumjasminnuitsyrienne.ch"
+}, {
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "author": "http://parfumjasminnuitsyrienne.ch/index.html#bio",
+  "breadcrumb": "Livre > Récit de voyage",
+  "datePublished": "2015-04-25",
+  "image": "http://parfumjasminnuitsyrienne.ch/img/plus/cover.jpg",
+  "inLanguage": "French",
+  "name": "Parfum de jasmin dans la nuit syrienne",
+  "offers": {
+    "@type": "Offer",
+    "availability": "http://schema.org/InStock",
+    "price": "25.00",
+    "priceCurrency": "CHF"
+  },
+  "publisher": "Editions de l'Aire",
+  "review": [{
+    "@type": "Review",
+    "author": "Anik Schuin",
+    "datePublished": "2015-04-03",
+    "name": "La jeune femme en tire un livre palpitant, à la fois récit de voyage en solitaire et tentative dʹintrospection. La moto rouge, achetée dʹoccasion chez un revendeur syrien, est le fil rouge de ces pages qui nous entraînent sur les routes, au rythme des crevaisons et des belles rencontres de fortune"
+  }, {
+    "@type": "Review",
+    "author": "Eléonore Sulser",
+    "datePublished": "2015-04-18",
+    "name": "Parfum de jasmin dans la nuit syrienne est un livre qui aurait sans doute mérité d’être plus travaillé; mais il emporte néanmoins, par son propos plein de bravoure et par le contraste poignant d’un récit de formation et de jeunesse au contact d’un monde qui se délite dans la guerre."
+  }, {
+    "@type": "Review",
+    "author": "Lisbeth Koutchoumoff",
+    "datePublished": "2015-04-18",
+    "name": "Gonflé d’énergie, Parfum de jasmin dans la nuit syrienne fait du bien."
+  }, {
+    "@type": "Review",
+    "author": "Francis Richard",
+    "datePublished": "2015-04-15",
+    "name": "Ce récit est émaillé de réminiscences qui surgissent en cours d'écriture, telles que ce parfum de jasmin dans la nuit syrienne, et d'extraits de son carnet de route, rédigés auparavant et, même, ultérieurement à ce voyage [...] Les considérations personnelles, qui découlent de cette compréhension de l'éphémère de la vie, relèvent de la sagesse éternelle."
+  }, {
+    "@type": "Review",
+    "author": "Déborah Danblon",
+    "datePublished": "2015-05-02",
+    "name": "Waaahhhoo, je suis sans voix! L’aventure dans laquelle vous vous êtes lancée et complètement incroyable et votre façon de la raconter est vraiment enthousiasmante! […] J’ai vraiment pris beaucoup beaucoup de plaisir à la lecture de votre récit et je trouve que l’on en ressort complètement remonté!"
+  }]
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace",
+  "startDate": "2015-04-01T13:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.cite-du-genevrier.ch/fr/genevrier",
+    "name": "La Cité du Genévrier",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Saint-Légier",
+      "postalCode": "1806"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Présentation et séance de dédicace",
+  "startDate": "2015-04-22T17:30",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.albert-le-grand.ch",
+    "name": "Librairie Albert le Grand",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue du Temple 1",
+      "addressLocality": "Fribourg",
+      "postalCode": "1700"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Entretien sur la scène de la place du voyage",
+  "startDate": "2015-04-30T14:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.salondulivre.ch/fr/agenda-auteurs/chardonnens-sarah-7599",
+    "name": "Salon du livre de Genève",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route François-Peyrot 30",
+      "addressLocality": "Le Grand-Saconnex",
+      "postalCode": "1218"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "La librairie francophone [émission radio][RTS]",
+  "startDate": "2015-05-01T14:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.salondulivre.ch/fr/agenda/?type=0&amp;date=0&amp;place=0&amp;public=0&amp;keywords=librairie+francophone",
+    "name": "Salon du livre de Genève",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route François-Peyrot 30",
+      "addressLocality": "Le Grand-Saconnex",
+      "postalCode": "1218"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace",
+  "startDate": "2015-05-01T15:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.salondulivre.ch/fr/exposants/editions-de-l-aire-6075?q=éditions+de+l%27aire&amp;c=0",
+    "name": "Salon du livre de Genève",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route François-Peyrot 30",
+      "addressLocality": "Le Grand-Saconnex",
+      "postalCode": "1218"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Pardonnez-moi [émission TV][RTS]",
+  "startDate": "2015-05-02T16:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.salondulivre.ch/fr/agenda/?type=0&amp;date=0&amp;place=5968&amp;public=0&amp;keywords=",
+    "name": "Salon du livre de Genève",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route François-Peyrot 30",
+      "addressLocality": "Le Grand-Saconnex",
+      "postalCode": "1218"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace",
+  "startDate": "2015-05-02T17:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.salondulivre.ch/fr/exposants/editions-de-l-aire-6075?q=éditions+de+l%27aire&amp;c=0",
+    "name": "Salon du livre de Genève",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Route François-Peyrot 30",
+      "addressLocality": "Le Grand-Saconnex",
+      "postalCode": "1218"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Présentation et séance de dédicace",
+  "startDate": "2015-05-08T18:30",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "https://www.librairie-baobab.ch",
+    "name": "Librairie du Baobab",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. de la Gare 42",
+      "addressLocality": "Martigny",
+      "postalCode": "1920"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace",
+  "startDate": "2015-05-09T14:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.payot.ch/fr/noslibrairies/nosevenements/evenement_payot/signature__sarah_chardonnens-2265-0358",
+    "name": "Librairie Payot",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue des Deux-Marchés 15",
+      "addressLocality": "Vevey",
+      "postalCode": "1800"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace et présentation",
+  "startDate": "2015-06-10T19:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.la-tour-de-peilz.ch/Culture_et_Loisirs/Bibliotheque",
+    "name": "Bibliothèque communale de la Tour-de-Peilz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. de la Gare 1",
+      "addressLocality": "La Tour-de-Peilz",
+      "postalCode": "1814"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Présentation",
+  "startDate": "2015-06-16T19:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.bachibouzouk.ch",
+    "name": "Le bachibouzouk",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rue des jardins 12",
+      "addressLocality": "Vevey",
+      "postalCode": "1800"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Séance de dédicace",
+  "startDate": "2015-06-26T16:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.payot.ch/fr/noslibrairies/nosevenements/evenement_payot/signature__sarah_chardonnens-2334-0235",
+    "name": "Librairie Payot",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Place Pépinet 4",
+      "addressLocality": "Lausanne",
+      "postalCode": "1003"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Conférence",
+  "startDate": "2015-10-26T17:00",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://salondulivrebeyrouth.org/auteurs/show/chardonnens-sarah",
+    "name": "Salon du livre de Beyrouth",
+    "address": "BCD Colony,Beyrouth"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "http://salondulivrebeyrouth.org/"
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Conférence",
+  "startDate": "2015-10-28T17:30",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://salondulivrebeyrouth.org/auteurs/show/chardonnens-sarah",
+    "name": "Salon du livre de Beyrouth",
+    "address": "BCD Colony,Beyrouth"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "http://salondulivrebeyrouth.org/"
+  }
+
+}, {
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Cérémonie des mérites de la ville de la Tour-de-Peilz",
+  "startDate": "2016-04-13T18:30",
+  "url": "http://parfumjasminnuitsyrienne.ch/index.html#livre",
+  "location": {
+    "@type": "Place",
+    "sameAs": "http://www.la-tour-de-peilz.ch/Culture_et_Loisirs/Merites/default.asp",
+    "name": "Salle des Remparts, la Tour-de-Peilz",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Pl. des Anciens-Fossés",
+      "addressLocality": "La Tour-de-Peilz",
+      "postalCode": "1814"
+    }
+  }
+}, {
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Parfum de jasmin dans la nuit syrienne",
+  "url": ["http://parfumjasminnuitsyrienne.ch", "http://parfumjasminnuitsyrienne.ch/film.html"],
+  "logo": "http://parfumjasminnuitsyrienne.ch/img/plus/cover.jpg",
+  "sameAs": ["http://www.facebook.com/parfumjasminnuitsyrienne", "https://twitter.com/SChardonnens", "https://youtu.be/8ksx2bP2SU8"]
+}, {
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Une rose pour Sarah Chardonnens"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "magazineArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "Jaquet, Aurélie"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "03.02.2016"
+  }],
+  "http://purl.org/dc/elements/1.1/identifier": [{
+    "@value": "ISSN 1420-5165"
+  }]
+}, {
+  "@id": "http://becurioustv.com/fr/show/coddoc/episode/beyrouth",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Destination Beyrouth - de Sarah Chardonnens"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "tvBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "CHARDONNENS, Sarah"
+  }, {
+    "@value": "CHARDONNENS, Alain"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "2 octobre 2015"
+  }]
+}, {
+  "@id": "http://itineraires.blog.24heures.ch/archive/2015/05/27/sarah-chardonnens-l-aventure-est-possible-858962.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "SARAH CHARDONNENS : L'AVENTURE EST POSSIBLE!"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "FAVRE, Gilberte"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "29 mai 2015"
+  }]
+}, {
+  "@id": "http://lecourrierdumaghrebetdelorient.info/syria/syrie-entretien-avec-sarah-chardonnens-retour-sur-les-debuts-dune-revolution-improbable",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "SYRIE – Entretien avec Sarah Chardonnens : Retour sur les débuts d’une révolution improbable"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "PICCININ DA PRATA, Pierre"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "20 mai 2015"
+  }]
+}, {
+  "@id": "http://www.24heures.ch/vaud-regions/riviera-chablais/rouler-cheveux-vent-acte-resistance/story/31985503",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Rouler cheveux au vent était un acte de résistance"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "ARBOIT, Stéphanie"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "25 avril 2015"
+  }],
+  "http://purl.org/dc/elements/1.1/identifier": [{
+    "@value": "ISSN 1661-2256"
+  }]
+}, {
+  "@id": "http://www.becurioustv.com/fr/show/fast-and-curious/episode/dans-ton-cult-e-parfum-de-jasmin-dans-la-nuit-syrienne",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Dans ton Cult(e) - Parfum de jasmin dans la nuit syrienne"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "tvBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "29 mai 2015"
+  }]
+}, {
+  "@id": "http://www.bouquiner.ch/4110-parfum-de-jasmin-dans-la-nuit-syrienne-de-sarah-chardonnens",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Parfum de jasmin dans la nuit syrienne de Sarah Chardonnens!"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "NOVERRAZ, Stella"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "28 mai 2015"
+  }]
+}, {
+  "@id": "http://www.bouquiner.ch/4644-interview-de-sarah-chardonnens",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Interview de Sarah Chardonnens"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "NOVERRAZ, Stella"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "4 octobre 2015"
+  }]
+}, {
+  "@id": "http://www.francisrichard.net/2015/04/parfum-de-jasmin-dans-la-nuit-syrienne-de-sarah-chardonnens.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "\"Parfum de jasmin dans la nuit syrienne\" de Sarah Chardonnens"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "RICHARD, Francis"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "15 avril 2015"
+  }]
+}, {
+  "@id": "http://www.goodreads.com/review/show?id=1408118314",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "a review of Parfum de jasmin dans la nuit syrienne"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "forumPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "KLEINHAGE, Esther"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "9 octobre 2015"
+  }]
+}, {
+  "@id": "http://www.laliberte.ch/news/magazine/societe-conso/a-moto-sur-les-routes-de-syrie-286030#.VWYbZhc1i1k",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "A moto sur les routes de Syrie"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "ADAMO, Ghania"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "27 mai 2015"
+  }]
+}, {
+  "@id": "http://www.latele.ch/play?i=53923",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Le voyage à moto d'une Vaudoise en Syrie"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "tvBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "29 mai 2015"
+  }]
+}, {
+  "@id": "http://www.leregional.ch/N70280/une-boelande-a-moto-en-syrie.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Une boélande à moto en Syrie"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "GIAMPETRUZZI, Sandra"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "9 avril 2015"
+  }]
+}, {
+  "@id": "http://www.letemps.ch/Page/Uuid/5212b246-e531-11e4-94b8-e7cac4d21567/Parcourir_les_routes_dOrient_sur_une_moto_rouge",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Parcourir les routes d’Orient sur une moto rouge"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "SULSER, Eléonore"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "18 avril 2015"
+  }],
+  "http://purl.org/dc/elements/1.1/identifier": [{
+    "@value": "ISSN 1423-3967"
+  }]
+}, {
+  "@id": "http://www.letemps.ch/Page/Uuid/df0b8516-e521-11e4-94b8-e7cac4d21567/Lectures_énergétiques",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Lectures énergétiques"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "KOUTCHOUMOFF, Lisbeth"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "18 avril 2015"
+  }],
+  "http://purl.org/dc/elements/1.1/identifier": [{
+    "@value": "ISSN 1423-3967"
+  }]
+}, {
+  "@id": "http://www.lnlm-leblog.fr/2015/10/portrait-sarah-chardonnens-une-voyageuse-a-moto.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Portrait : Sarah Chardonnens, une voyageuse à moto"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "LNLM"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "1 octobre 2015"
+  }]
+}, {
+  "@id": "http://www.radiosfrancophones.org/librairie-francophone-interviews-auteurs.php",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Spéciale Salon du Livre de Genève : Jean-Christophe Rufin, Koffi Kwahulé, Sarah Chardonnens et Ananda Devi"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "radioBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "Khérad, Emmanuel"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "2 mai 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/espace-2/programmes/le-grand-entretien/6631261-le-grand-entretien-du-03-04-2015.html#6631260",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Sarah Chardonnens: \"Parfum de jasmin dans la nuit syrienne\""
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "radioBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "Schuin, Anik"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "3 avril 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/la-1ere/programmes/detours/6808540-detours-du-08-06-2015.html#6808539",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Parfum de jasmin dans la nuit syrienne"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "radioBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "Caboche, Madeleine"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "8 juin 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/la-1ere/programmes/l-invite-du-12h30/6683780-sarah-chardonnens-le-temps-d-un-damas-la-tour-de-peilz-a-moto.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Sarah Chardonnens, le temps d'un Damas - La Tour-de-Peilz à moto"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "radioBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "Van Cutsem, Natacha"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "15 avril 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/la-1ere/programmes/la-ligne-de-coeur/6984880-la-ligne-de-coeur-du-27-08-2015.html",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Laisser des traces (4/5)"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "radioBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "Richard, Jean-Marc"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "27 août 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/play/tv/le-19h30/video/sarah-chardonnens-raconte-dans-le-livre-parfum-de-jasmin-dans-la-nuit-syrienne-son-voyage-a-moto-en-syrie?id=6810188#open_form_anker",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Sarah Chardonnens raconte dans le livre \"Parfum de jasmin dans la nuit syrienne\" son voyage à moto en Syrie"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "tvBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "25 mai 2015"
+  }]
+}, {
+  "@id": "http://www.rts.ch/play/tv/pardonnez-moi/video/salon-du-livre-2015?id=6751550",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Salon du Livre 2015"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "tvBroadcast"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "3 mai 2015"
+  }]
+}, {
+  "@id": "http://www.swissinfo.ch/fre/récit-de-voyage_regard-d-une-jeune-humanitaire-suisse-sur-la-syrie-d--avant-/41426436",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Regard d’une jeune humanitaire suisse sur la Syrie d’«avant»"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "ADAMO, Ghania"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "24 mai 2015"
+  }]
+}, {
+  "@id": "https://fr-fr.facebook.com/librairiedubaobab/posts/568586796616533",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Sarah Chardonnens sera au Baobab ce vendredi 8 mai à 18h [...]"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "forumPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "Librairie du Baobab Sàrl"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "5 mai 2015, 07:47"
+  }]
+}, {
+  "@id": "https://unige.academia.edu/BertrandLevy",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "PARFUM DE JASMIN DANS LA NUIT SYRIENNE DE SARAH CHARDONNENS : UN PREMIER RECIT DE VOYAGE, UN CHEF-D'ŒUVRE"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "newspaperArticle"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "LEVY, Bertrand"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "2015"
+  }]
+}, {
+  "@id": "https://www.facebook.com/SwissEmbassyLebanon/photos/a.1585067171729007.1073741828.1579620812273643/1714405602128496/?type=3",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "-LA SUISSE AU SALON DU LIVRE FRANCOPHONE DE BEYROUTH 2015- Facebook"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "forumPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "Embassy of Switzerland in Lebanon / Ambassade de Suisse au Liban"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "21 octobre 2015, 16:00"
+  }]
+}, {
+  "@id": "https://www.facebook.com/cinfoCentre/posts/926294054088482",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "En recherche d'une nouvelle lecture captivante ?"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "forumPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "CINFO"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "14 avril 2015, 07:23"
+  }]
+}, {
+  "@id": "https://www.payot.ch/fr/selections/payot-l'hebdo-/mai-2015-les-meilleurs-romans-de-l-été/vogue-initiations-au-voyage",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Vogue. Initiations au voyage en soi ou très loin"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "blogPost"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "DESCOMBES, Mireille"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "2015"
+  }]
+}, {
+  "@id": "https://www.youtube.com/watch?v=8ksx2bP2SU8&feature=youtu.be",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "En direction de Beyrouth"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "film"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "CHARDONNENS, Sarah"
+  }, {
+    "@value": "CHARDONNENS, Alain"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "2 octobre 2015"
+  }]
+}, {
+  "@id": "https://www.youtube.com/watch?v=U8A2iRa4xp0",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Mérites de La Tour-de-Peilz 2016"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "videoRecording"
+  }],
+  "http://purl.org/dc/elements/1.1/contributor": [{
+    "@value": "CHARDONNENS, Sarah"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "13 avril 2016"
+  }]
+}, {
+  "@id": "urn:isbn:9782940537471",
+  "http://purl.org/dc/elements/1.1/title": [{
+    "@value": "Parfum de jamin dans la nuit syrienne"
+  }],
+  "http://purl.org/dc/elements/1.1/type": [{
+    "@value": "book"
+  }],
+  "http://purl.org/dc/elements/1.1/creator": [{
+    "@value": "CHARDONNENS, Sarah"
+  }],
+  "http://purl.org/dc/elements/1.1/publisher": [{
+    "@value": "Michel Moret"
+  }],
+  "http://purl.org/dc/elements/1.1/date": [{
+    "@value": "25 avril 2015"
+  }],
+  "http://purl.org/dc/elements/1.1/identifier": [{
+    "@value": "ISBN 9782940537471"
+  }]
+}]
