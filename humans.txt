@@ -1,0 +1,21 @@
+/* TEAM */
+	Web designer/developer: Alain Chardonnens
+	Contact: a.chardonnens [at] romandie.com
+	From: La Tour-de-Peilz, Switzerland
+							
+/* THANKS */
+	Site Owner: Sarah Chardonnens
+	Contact: sarah.chardonnens [at] romandie.com
+	From: La Tour-de-Peilz, Switzerland
+
+	Editions de l'Aire: Michel Moret
+	Contact: editionaire [at] bluewin.ch
+	Site: http://www.editions-aire.ch
+	From: Vevey, Switzerland
+                            
+/* SITE */
+	Last update: 25/04/2018
+	Language: French
+	Standards: HTML5, CSS3, JS
+	Components: jVectorMap-1.2.2, fancybox 2.1.5, Bootstrap v3.3.2, jQuery v2.1.1, HTML5 Shiv v3.7.0, MediaElementPlayer
+	Fonts: Font-awesome 4.3.0, Raleway, Arial
