@@ -22,4 +22,4 @@ Disallow: /img/plus/logoSiordet.png
 Disallow: /img/plus/prixRegis.png
 Disallow: /img/plus/prixLaTour.png
 Disallow: /img/plus/LeMondeestunvillage.jpg
-Sitemap: https://www.parfumjasminnuitsyrienne.ch/sitemap.xml
+Sitemap: http://www.parfumjasminnuitsyrienne.ch/sitemap.xml
