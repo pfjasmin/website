@@ -1114,7 +1114,12 @@
                     </ul>
                 </div>
                 <div class="col-lg-12">
-                    <p class="text-center copyright text-muted small">parfumjasminnuitsyrienne.ch &copy; 2015-2021</p>
+                    <p class="text-center copyright text-muted small">parfumjasminnuitsyrienne.ch &copy; 2015-<span id="year"></span></p>
+                    <script type="text/javascript">
+                    	const d = new Date();
+                    	let year = d.getUTCFullYear();
+                    	document.getElementById("year").innerHTML = year;
+                    </script>
                 </div>
             </div>
         </div>
