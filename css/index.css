@@ -808,3 +808,7 @@ div.img-div{
   padding-bottom: 1em;
 }
 /* -----------------------------------------------------------------------*/
+.fancybox-close{
+  width: 60px;
+  height: 60px;
+}
