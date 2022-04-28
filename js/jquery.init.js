@@ -79,6 +79,21 @@ jQuery(document).ready(function() {
 		 title : {type : 'inside'}
 		},
 	});
+
+  $('#popup').fancybox({
+    prevEffect : 'none',
+    nextEffect : 'none',
+    closeBtn  : true,
+    arrows    : false,
+    nextClick : false,
+    openEffect : 'elastic',
+    openSpeed  : 150,
+    closeEffect : 'elastic',
+    closeSpeed  : 150
+  });
+  
+  $("#popup").trigger('click');
+
   //nav init
   var sections = [];
   var id = false;
@@ -116,6 +131,7 @@ jQuery(document).ready(function() {
       location.hash = h;
     }
   }
+
 //MediaElementPlayer init
   $('audio').mediaelementplayer({success: function(mediaElement, originalNode) {
   }});
